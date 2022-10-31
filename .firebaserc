@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "ezpt-93903"
+  },
+  "targets": {
+    "ezpt-93903": {
+      "hosting": {
+        "repro": [
+          "nuxt-4961-repro"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

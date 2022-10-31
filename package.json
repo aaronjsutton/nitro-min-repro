@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "clean": "rm -rf .nuxt .output",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.11",
+    "firebase-functions-test": "^2.4.0",
+    "firebase-admin": "^11.0.1",
+    "firebase-functions": "^4.0.0"
+  }
+}
